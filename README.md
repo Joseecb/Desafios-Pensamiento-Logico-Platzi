@@ -1,1 +1,1 @@
-# Desafios Semanales de Pensamiento Lógico de Platzi
+# Desafios de Pensamiento Lógico de Platzi
